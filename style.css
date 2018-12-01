@@ -602,7 +602,6 @@ img.imagethumb2{
 	font-size:11px;
 	color:#909090;
 	font-weight:normal;
-	text-transform:uppercase;
 	margin:0 0 40px 0;
 	padding:0 0 20px 0;
 	background:url(images/border.png) no-repeat center bottom;
@@ -614,7 +613,6 @@ img.imagethumb2{
 	font-size:11px;
 	color:#909090;
 	font-weight:normal;
-	text-transform:uppercase;
 	margin:0 0 10px 0;
 	padding:0 0 10px 0;
 	}
